@@ -1,0 +1,18 @@
+
+
+body {
+	margin: 0;
+
+	color: white;
+	background-color: #313543;
+
+	font-family: 'Segoe UI';
+	font-size: 100px;
+	font-weight: 200;
+}
+
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
